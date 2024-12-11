@@ -71,16 +71,16 @@ Data Anonymization
 
 To protect patient privacy, names and social security numbers have been replaced with dummy values.
 
-Usage
+Usage.
 
 This dataset can be used for:
 
 Classification tasks to predict the presence of heart disease.
 
-Exploratory data analysis to understand the relationships between attributes and heart disease.
+Exploratory data analysis to understand the relationships between attributes and heart disease...
 
 Model training and evaluation in machine learning experiments.
 
-Citation
+Citation.
 
 If you use this dataset in your research or project, please cite the original source appropriately.
