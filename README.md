@@ -7,7 +7,7 @@ This dataset, originally compiled in 1988, is a valuable resource for heart dise
 
 1: Disease present
 
-Dataset Details
+Dataset Details,
 
 Attribute Information
 
