@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-..
+# Heart-Disease-Prediction-...
 Overview
 
 This dataset, originally compiled in 1988, is a valuable resource for heart disease prediction. It aggregates data from four sources: Cleveland, Hungary, Switzerland, and Long Beach V. While the dataset includes 76 attributes, most studies focus on a subset of 14 key attributes. The target attribute indicates the presence of heart disease, represented as:
